@@ -513,7 +513,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "stm32f072_template.step",
+      "step": "baby-batoid_mounting_holes.step",
       "svg": "",
       "vrml": ""
     },
