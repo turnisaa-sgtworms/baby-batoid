@@ -6496,6 +6496,16 @@
 		)
 		(uuid "11bdaaf1-654a-4847-a5dc-25eed18c2fec")
 	)
+	(label "A15"
+		(at 317.5 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1edf0698-41a7-43f2-8e01-c90b7eae6a0e")
+	)
 	(label "B14"
 		(at 317.5 16.51 0)
 		(effects
@@ -6576,6 +6586,16 @@
 		)
 		(uuid "3f026a37-d930-4cf4-b38b-f0c53d50338e")
 	)
+	(label "B8"
+		(at 317.5 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f742caf-e652-40fa-adc4-3d33a5337c37")
+	)
 	(label "B14"
 		(at 60.96 93.98 180)
 		(effects
@@ -6636,6 +6656,16 @@
 		)
 		(uuid "5be939d1-3991-4cd1-a71d-ab25a5da77a7")
 	)
+	(label "B9"
+		(at 317.5 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61b53d11-9ad7-47d5-aa7d-e65974eceee0")
+	)
 	(label "B8"
 		(at 60.96 78.74 180)
 		(effects
@@ -6685,6 +6715,26 @@
 			(justify right bottom)
 		)
 		(uuid "7201c2ea-aae4-49cc-9549-35cc6c32aa07")
+	)
+	(label "B4"
+		(at 336.55 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "728ffcdc-fe0d-4ce6-854c-ac3a6e5cb2a7")
+	)
+	(label "B3"
+		(at 336.55 27.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "779c27de-ffeb-4cea-9557-8a446dcae455")
 	)
 	(label "C14"
 		(at 60.325 50.8 180)
@@ -6745,6 +6795,16 @@
 			(justify right bottom)
 		)
 		(uuid "a7c13b26-ca47-4d70-965a-c670009dff73")
+	)
+	(label "B6"
+		(at 336.55 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b69cb632-9b98-4e1d-86f7-fb987bd5baa5")
 	)
 	(label "C15"
 		(at 60.325 53.34 180)
@@ -6826,6 +6886,16 @@
 		)
 		(uuid "d3772c79-3697-4242-8a2b-a1dd09f68af5")
 	)
+	(label "A14"
+		(at 317.5 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d3e027cd-dd80-40eb-826f-39c82c004f17")
+	)
 	(label "A5"
 		(at 98.425 43.18 0)
 		(effects
@@ -6855,6 +6925,16 @@
 			(justify right bottom)
 		)
 		(uuid "f8ab07d2-b3f1-46c1-a900-8d4ae8db09d4")
+	)
+	(label "B5"
+		(at 336.55 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f8bb1452-c34a-4527-9945-276b16ff0494")
 	)
 	(label "F0"
 		(at 60.325 40.64 180)
